@@ -1,13 +1,21 @@
-main
+inicio {
 
 var
 x = 10
 
 y = 23
 
+soma = 0
 
 
+main() {
 
+	soma =  x + y
+}
+
+printf("qual é a soma" soma)
+
+}
 
 
 
